@@ -5,9 +5,12 @@ h1 {
 h2 {
 
 }
+h3 {
+  opacity: .5;
+}
 
 p {
-
+  font-family: sans-serif;
 }
 
 ul {
@@ -15,5 +18,15 @@ ul {
 }
 
 li {
-  
+
+}
+
+.flashy {
+  font-style: italic;
+  color: red;
+}
+
+.best {
+  font-weight: bold;
+  color: purple;
 }
